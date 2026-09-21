@@ -1,6 +1,16 @@
  UnlockMenu Zombies – Free BO2 PS4 GSC Menu
 
-**THIS PROJECT IS NOT RELEASED**
+**HOW TO MODIFY YOUR STATS :**
+- For Co-Op Stats go on Tranzit and modify your stats
+  - when you spawn set god mod ON
+  - Modify your stats
+  - when your ps4 die go in round menu and add 5 round+
+  - and die !
+- For Versus Stats start a versus and modify your stats
+  - When you spawn set god mod ON
+  - Modify your stats
+  - When your ps4 jailbreak die go in round menu and add 5 round
+  - and it's done!
 
 **A free GSC menu for Call of Duty: Black Ops 2 on PlayStation 4**, focused on account stats editing
 This is **version ???** of UnlockMenu.
