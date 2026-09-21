@@ -1,4 +1,4 @@
- UnlockMenu Zombies – Free Open Source BO2 PS4 GSC Menu
+ UnlockMenu Zombies – Free BO2 PS4 GSC Menu
 
 **THIS PROJECT IS NOT RELEASED**
 
