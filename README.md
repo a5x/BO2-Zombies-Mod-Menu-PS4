@@ -24,6 +24,10 @@ Choose the correct file according to the tool you are using.
 ---
 
 ## Features
+- Self Options
+- Fun Options
+- Account Options
+- and more
 
 ### Rank
 - Rank
