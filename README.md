@@ -11,7 +11,6 @@ This is **version ???** of UnlockMenu.
 
 | Injector / Tool          | File to Download      |
 |--------------------------|-----------------------|
-  |
 | **Debug Tools**          | Compiled file         |
 
 Choose the correct file according to the tool you are using.
