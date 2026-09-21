@@ -1,10 +1,9 @@
- UnlockMenuV3.5 – Free Open Source BO2 PS4 GSC Menu
+ UnlockMenu Zombies – Free Open Source BO2 PS4 GSC Menu
 
-**VERSION 3.5 IS OUT**
+**THIS PROJECT IS NOT RELEASED**
 
-**A free and open-source GSC menu for Call of Duty: Black Ops 2 on PlayStation 4**, focused on account recovery, stat editing, and full unlocks.
-
-This is **version 3.5** of UnlockMenu.
+**A free GSC menu for Call of Duty: Black Ops 2 on PlayStation 4**, focused on account stats editing
+This is **version ???** of UnlockMenu.
 
 ---
 
@@ -12,7 +11,7 @@ This is **version 3.5** of UnlockMenu.
 
 | Injector / Tool          | File to Download      |
 |--------------------------|-----------------------|
-| **DeadOps Injector**     | DeadOps file          |
+  |
 | **Debug Tools**          | Compiled file         |
 
 Choose the correct file according to the tool you are using.
