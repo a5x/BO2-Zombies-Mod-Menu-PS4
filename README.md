@@ -14,6 +14,8 @@
   - When your ps4 jailbreak die go in round menu and add 5 round
   - and it's done!
 
+__**i don’t provide lan spoofer btw**__
+
 **A free GSC menu for Call of Duty: Black Ops 2 on PlayStation 4**, focused on account stats editing
 This is **version 1.0.0-beta** of UnlockMenu.
 
