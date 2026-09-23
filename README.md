@@ -1,5 +1,12 @@
  UnlockMenuV1 Zombies – Free BO2 PS4 GSC Menu
 
+what’s next?
+- More option in V2, V2 will be released this week
+- perma perks
+- bank money
+- psn unlock trophies
+- etc
+
 [Multiplayer Version](https://github.com/a5x/BO2-Multiplayer-Mod-Menu-PS4-OpenSource/)
 
 **HOW TO MODIFY YOUR STATS :**
