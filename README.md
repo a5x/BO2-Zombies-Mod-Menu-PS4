@@ -1,5 +1,9 @@
  UnlockMenuV2 Zombies – Free BO2 PS4 GSC Menu
 
+**bugs reported:**
+Q:crash at the end game after modifying my stats 
+R: if you have an stats with 1.003+32 like thats and you add Another 1B on it when you try to save your modded stats the game auto kick you and don’t save your edited stats
+
 [Multiplayer Version](https://github.com/a5x/BO2-Multiplayer-Mod-Menu-PS4-OpenSource/)
 
 **HOW TO MODIFY YOUR RANK :**
