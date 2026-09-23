@@ -20,6 +20,12 @@
   - When your ps4 jailbreak die go in round menu and add 5 round
   - and it's done!
 
+
+**HOW TO MODIFY YOUR BANK MONEY:**
+- Go on buried etc
+- When you spawn click on Give Money Bank
+- Add 5 Rounds and die or close the game on your PS4 JB
+
 __**i don’t provide lan spoofer btw**__
 
 **A free GSC menu for Call of Duty: Black Ops 2 on PlayStation 4**, focused on account stats editing
