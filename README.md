@@ -4,7 +4,7 @@
 Q:crash at the end game after modifying my stats 
 R: if you have an stats with 1.003+32 like thats and you add Another 1B on it when you try to save your modded stats the game auto kick you and don’t save your edited stats
 
-kills stats and revives stats if you put over 5M stats you are auto kicked at the end game
+kills stats and revives stats if you put over 5M stats you are auto kicked at the end game (for versus stats)
 
 [Multiplayer Version](https://github.com/a5x/BO2-Multiplayer-Mod-Menu-PS4-OpenSource/)
 
@@ -22,7 +22,7 @@ kills stats and revives stats if you put over 5M stats you are auto kicked at th
   - and die !
 - For Versus Stats start a versus and modify your stats
   - When you spawn set god mod ON
-  - Modify your stats
+  - Modify your stats (Kills and revives are glitched if you put over 5M in one time)
   - When your ps4 jailbreak die go in round menu and add 5 round
   - and it's done!
 
