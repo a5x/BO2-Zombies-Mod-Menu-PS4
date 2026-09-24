@@ -1,4 +1,4 @@
- UnlockMenuV2 Zombies – Free BO2 PS4 GSC Menu
+ UnlockMenuV2.5 Zombies – Free BO2 PS4 GSC Menu
 
 **bugs reported:**
 Q:crash at the end game after modifying my stats 
@@ -35,7 +35,7 @@ kills stats and revives stats if you put over 5M stats you are auto kicked at th
 __**i don’t provide lan spoofer btw**__
 
 **A free GSC menu for Call of Duty: Black Ops 2 on PlayStation 4**, focused on account stats editing
-This is **version 2.0.0** of UnlockMenu.
+This is **version 2.5.0** of UnlockMenu.
 
 ---
 
