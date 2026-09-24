@@ -6,14 +6,15 @@
 
 [Multiplayer Version](https://github.com/a5x/BO2-Multiplayer-Mod-Menu-PS4-OpenSource/)
 
-**HOW TO MODIFY YOUR RANK :**
+***HOW TO MODIFY YOUR RANK :***
 - Open Account Menu / Rank /
 - Click on SHOT GUN RANK AND BLUE EYES
 - Add 5 rounds and die you and your PS4 or use END GAME option
 
 
 ***HOW TO MODIFY YOUR STATS :***
-- For Co-Op Stats go on Tranzit and modify your stats
+- ***For Co-Op Stats*** 
+- go on Tranzit and modify your stats
   - when you spawn set god mod ON
   - Modify your stats
   - when your ps4 die go in round menu and add 5 rounds and die or use END GAME option
