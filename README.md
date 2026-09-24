@@ -42,7 +42,7 @@ This is **version 2.5.0** of UnlockMenu.
 
 | Injector / Tool          | File to Download      |
 |--------------------------|-----------------------|
-| **Debug Tools**          | Compiled file         |
+| **Any Injector**          | Compiled file         |
 
 Choose the correct file according to the tool you are using.
 
