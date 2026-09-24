@@ -9,23 +9,23 @@
 **HOW TO MODIFY YOUR RANK :**
 - Open Account Menu / Rank /
 - Click on SHOT GUN RANK AND BLUE EYES
-- Add 5 rounds and die you and your PS4
+- Add 5 rounds and die you and your PS4 or use END GAME option
 
 
-**HOW TO MODIFY YOUR STATS :**
+***HOW TO MODIFY YOUR STATS :***
 - For Co-Op Stats go on Tranzit and modify your stats
   - when you spawn set god mod ON
   - Modify your stats
-  - when your ps4 die go in round menu and add 5 round+
-  - and die !
-- For Versus Stats start a versus and modify your stats
+  - when your ps4 die go in round menu and add 5 rounds and die or use END GAME option
+- ***For Versus Stats*** 
+- start a versus and modify your stats
   - When you spawn set god mod ON
   - Modify your stats (Kills and revives are glitched if you put over 5M in one time)
-  - When your ps4 jailbreak die go in round menu and add 5 round
+  - When your ps4 jailbreak die go in round menu and add 5 round or use END GAME option
   - and it's done!
 
 
-**HOW TO MODIFY YOUR BANK MONEY:**
+***HOW TO MODIFY YOUR BANK MONEY:***
 - Go on buried etc
 - When you spawn click on Give Money Bank
 - Add 5 Rounds and die or close the game on your PS4 JB
